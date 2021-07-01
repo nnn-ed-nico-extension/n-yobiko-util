@@ -3,5 +3,5 @@ module.exports.getChapterDetail = function () {
         document
             .querySelector('div[data-react-class="App.Chapter"][data-react-props]')
             .dataset.reactProps
-    )
+    );
 };
