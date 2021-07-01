@@ -1,7 +1,7 @@
 {
   "name": "n-yobiko-utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "N予備校の拡張機能を作るときにあると便利な関数がまとめられたUtils",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
